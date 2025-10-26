@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Simple Qt Dictionary
+Exec=/usr/local/bin/my-dict
+Icon=/usr/share/icons/hicolor/512x512/apps/icon.png
+Type=Application
+Categories=Utility;

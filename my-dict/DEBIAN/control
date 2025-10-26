@@ -1,0 +1,8 @@
+Package: my-dict
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libqt5widgets5, libqt5gui5, libqt5core5a, libqt5sql5, libstdc++6, zlib1g, libglib2.0-0, libgl1, libharfbuzz0b, libfreetype6, libx11-6, libqt5sql5-mysql
+Maintainer: My Name
+Description: Simple Qt Dictionary

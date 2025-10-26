@@ -1,0 +1,6 @@
+{
+	"database" : "dictionary",
+	"table" : "french",
+	"user" : "me",
+	"host" : "localhost"
+}
